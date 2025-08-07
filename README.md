@@ -10,10 +10,10 @@ Python developer focused on automation, data workflows, and internal tools. I bu
 ### [NAV Viewer](https://github.com/katerinaroza/nav-viewer)
 A dashboard to visualize and validate NAV data across multiple portfolios. Calculates returns, volatility, drawdowns, and allows easy comparison.
 
-### [Stress Tester](https://github.com/katerinaroza/stress-tester)
+### [Stress Tester](https://github.com/katerinaroza/stress-testing)
 A portfolio stress testing tool for simulating shocks under multiple scenarios — specified, implied volatility, or historical events.
 
-### [Exception Review Tool](https://github.com/katerinaroza/exception-review-tool)
+### [Exception Review Tool](https://github.com/katerinaroza/exception-tool)
 An internal workflow tool for reviewing flagged records in structured datasets. Supports decision tracking, exception filtering, and Excel exports.
 
 ---
